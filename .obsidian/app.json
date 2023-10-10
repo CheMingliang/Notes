@@ -1,0 +1,17 @@
+{
+  "readableLineLength": true,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "spellcheck": false,
+  "showLineNumber": true,
+  "showIndentGuide": false,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "useTab": true,
+  "attachmentFolderPath": "Images"
+}
