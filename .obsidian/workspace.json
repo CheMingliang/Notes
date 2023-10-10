@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "db678f0bffece09d",
+        "id": "8f693ab39c66eea2",
         "type": "tabs",
         "children": [
           {
-            "id": "f9a9bdcab0bfb63c",
+            "id": "a22cde65426a3586",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -146,10 +146,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "f9a9bdcab0bfb63c",
+  "active": "a22cde65426a3586",
   "lastOpenFiles": [
-    "模板.md",
     "HanSong/高效人工智能计算、模型压缩、剪枝、量化、硬件感知神经架构搜索、设备上训练和推理/Once-for-All Train One Network and Specialize it for Efficient Deployment.md",
+    "模板.md",
     "Images/Pasted image 20231010174102.png",
     "Images/Pasted image 20231010173717.png",
     "Images/Pasted image 20231010173705.png",
