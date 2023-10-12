@@ -47,15 +47,13 @@
 ###### 渐进收缩算法细节
 - 弹性核大小：小核作为大核的一部分，由于不同大小的核可能具有不同的分布，引入核变换矩阵
 
-  ![image](../../Images/Cai2020Once_Figure5L.png)
-
+![image](../../Images/Cai2020Once_Figure5L.png)
 - 弹性深度：$N$层，保留前 $D$ 层，跳过后 $N-D$ 层，因此一种深度适用于一种组合
-
-  ![image](../../Images/Cai2020Once_Figure5R.png)
+![image](../../Images/Cai2020Once_Figure5R.png)
 
 - 弹性宽度：利用 $L1$ 范数计算通道重要性，然后排序，放弃部分通道
 
-  ![image](../../Images/Cai2020Once_Figure6.png)
+![image](../../Images/Cai2020Once_Figure6.png)
 
 ###### 架构搜索
 构建延迟和精度预测器，为模型质量提供快速反馈，用预测的准确性和延迟替换测量的准确性和延迟来消除重复搜索成本
